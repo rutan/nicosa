@@ -1,0 +1,13 @@
+require 'nicosa/version'
+require 'nicosa/client'
+require 'nicosa/errors'
+require 'nicosa/response'
+
+require 'nicosa/services/video'
+require 'nicosa/services/live'
+require 'nicosa/services/illust'
+require 'nicosa/services/manga'
+require 'nicosa/services/book'
+require 'nicosa/services/channel'
+require 'nicosa/services/channel_article'
+require 'nicosa/services/news'
