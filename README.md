@@ -4,7 +4,7 @@
 
 niconico search API client.
 
-- [コンテンツ検索APIドキュメント](http://search.nicovideo.jp/docs/api/search.html)
+- [コンテンツ検索APIドキュメント](http://site.nicovideo.jp/search-api-docs/search.html)
 
 ## Installation
 
